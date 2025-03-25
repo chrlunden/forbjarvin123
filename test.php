@@ -6,5 +6,5 @@
   
   $etternavn=$_POST ["etternavn"];  /* variable gitt verdier fra feltene i HTML-skjemaet */
 	
-  print ("God Dag $fornavn $etternavn <br />");  /* resultat skrevet ut  */	
+  pint ("God Dag $fornavn $etternavn <br />");  /* resultat skrevet ut  */	
 ?>
